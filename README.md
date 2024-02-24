@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @iTzfarbod
+- 👀 I’m interested in new technology
+- 👤 I’m a professional and active Telegram and Discord bot Developer
+- 🌍 I’m from IRAN🇮🇷 ,ISFAHAN
+- 🌱 I’m currently learning Js
+- 📫 You can Email me . My email address: farbodhabibzadegan.developer@gmail.com
+- 🧢 I know it's hard for you to believe, but I was born in 2011
