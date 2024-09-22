@@ -18,7 +18,11 @@ Right now, I'm focused on machine learning and artificial intelligence. I always
 
 [![My Skills](https://skillicons.dev/icons?i=discord,bots,github,gmail,instagram,py,stackoverflow,vscode,)](https://skillicons.dev)
 
-# 
+<div align="center">
+<img src= "https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"
+</div>
+<br><br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itzfarbod&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=itzfarbod&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
 #
