@@ -4,7 +4,7 @@ I'm Farbod, a young developer from Iran who goes by "itzfarbod" in media.📶
 
 # Telegram
 
-I joined Telegram 5 years ago and soon got interested in creating channels, coding bots, managing groups, designing and even made my community!!!🤖
+I joined Telegram on 2019 and soon got interested in creating channels, coding bots, managing groups, designing and even made my community!!!🤖
 
 ## Discord
 
